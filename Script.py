@@ -13,13 +13,13 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
-    SOURCE_TXT =  """<b>──────「 <a href=https://telegram.dog/crazybotz>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
+    SOURCE_TXT =  """<b>──────「 <a href=https://telegram.dog/Bishnoi_botz>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
 
 ➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
 
 ›› sᴛᴇᴘ 𝟷 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://omegalinks.in/ref/shivamnamdev>ᴏᴍᴇɢᴀʟɪɴᴋꜱ.</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
-›› sᴛᴇᴘ 𝟸 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/crazybotz/34>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ.</a>
+›› sᴛᴇᴘ 𝟸 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Bishnoi_botz/34>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ.</a>
 
 ➥ ᴛʜɪꜱ ʙᴏᴛ ꜰʀᴇᴇ ꜰᴏʀ ᴀʟʟ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ꜰʀᴇᴇ ᴏꜰ ᴄᴏꜱᴛ."""
 
