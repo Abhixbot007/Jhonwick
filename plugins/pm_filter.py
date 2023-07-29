@@ -1130,13 +1130,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('ℵ ᴀᴅᴅ ᴀᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ℵ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🔭 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('📞 ᴏᴡɴᴇʀ', callback_data="owner_info")
+                    InlineKeyboardButton('🎬 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
+                    InlineKeyboardButton('🥸 Dᴇᴅᴅʏ', callback_data="owner_info")
                 ],[
                     InlineKeyboardButton('🌥️ ʜᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('☃️ ᴀʙᴏᴜᴛ', callback_data='about')
+                    InlineKeyboardButton('🐼 ᴀʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('💲ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ💲', callback_data='source')
+                    InlineKeyboardButton('💸ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ💰', callback_data='source')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1192,7 +1192,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "source":
         buttons = [[
             InlineKeyboardButton('ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ', url="https://t.me/Bishnoi_botz"),
-            InlineKeyboardButton('ᴏᴡɴᴇʀ', url="https://t.me/abhi_toxic")
+            InlineKeyboardButton('Dᴇᴅᴅʏ🥸', url="https://t.me/abhi_toxic")
         ],[
             InlineKeyboardButton('⇐ ʙᴀᴄᴋ', callback_data='start')
         ]]
